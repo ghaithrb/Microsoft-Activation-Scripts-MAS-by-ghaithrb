@@ -10,3 +10,7 @@ To do that, press the Windows key + X, then select PowerShell or Terminal.
 Copy and paste the code below, then press enter.
 
 irm https://get.activated.win | iex
+
+You will see the activation options.
+Press 1 HWID for Windows activation.
+Press 2 Ohook for Office activation.
